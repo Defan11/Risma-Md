@@ -36,12 +36,12 @@ global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = '𝑌𝑜𝑢𝑡𝑢𝑏𝑒'
-global.urlnya = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.dtu = 'instagram'
+global.urlnya = "https://www.instagram.com/defan_sugiarto"
 
 //============= callButtons =============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '62 857-1313-7903'
+global.dtc = 'owner'
+global.phn = '62 821-3590-5896'
 
 //============= Games ================//
 global.benar = '_*Benar*_'
